@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 我的静态博客
+heroText: Hevin的前端博客
 tagline: 我的静态博客的描述信息
 #bannerBg: auto
 actionText: 开始阅读 →

@@ -8,7 +8,7 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "author": "作者名称",
+  "author": "Hevin",
   "dependencies": {},
   "devDependencies": {
     "dayjs": "^1.9.7",
