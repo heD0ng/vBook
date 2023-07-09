@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Hevin的前端博客',
+    title: 'Hevin',
     description: '我是这个博客模板的描述',
     locales: {
         '/': {
