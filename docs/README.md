@@ -22,14 +22,14 @@ hideRightBar: true
 ## 🎖宣传内容区域
 ::: cardList 3
 ```yaml
-- name: 内容一
-  desc: 内容一的描述
-  link: https://www.baidu.com
+- name: 前端github
+  desc: 前端开源站点
+  link: https://github.com/FrontEndGitHub/FrontEndGitHub
   bgColor: '#f1f1f1'
   textColor: '#2A3344'
-- name: 内容二
-  desc: 内容二的描述
-  link: https://www.baidu.com
+- name: 知识体系
+  desc: 前端知识体系
+  link: https://juejin.cn/post/6994657097220620319
   bgColor: '#f1f1f1'
   textColor: '#2A3344'
 - name: 内容三
