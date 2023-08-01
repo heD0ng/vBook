@@ -40,7 +40,7 @@ module.exports = {
             },
             {
                 text: '博客',
-                link: '/pages/24112f/'
+                link: '/pages/a94f09/'
             },
             {
                 text: '专题内容',
