@@ -32,9 +32,9 @@ hideRightBar: true
   link: https://juejin.cn/post/6994657097220620319
   bgColor: '#f1f1f1'
   textColor: '#2A3344'
-- name: 内容三
-  desc: 内容三的描述
-  link: https://www.baidu.com
+- name: 算法
+  desc: 高频算法题
+  link: https://github.com/afatcoder/LeetcodeTop
   bgColor: '#f1f1f1'
   textColor: '#2A3344'
 ```
